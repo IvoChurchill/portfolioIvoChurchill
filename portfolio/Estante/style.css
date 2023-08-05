@@ -1,0 +1,51 @@
+body {
+    /* background */
+    background-color: #f2e7dc;
+    /* Texto */
+    color: #0d0d0d;
+    text-align: justify;
+    /* Alinhamento e Tamanho */
+    /* 1 rem = 16px, tela grande = font - size: 16px, tela média = font - size 15px, tela pequenas: = font - size 14px; */
+    width: 85%;
+    margin: auto;
+}
+/* seções de livros */
+section {
+    /* padding: 64px 256px 64px 256px; modo de estilização simplificada, neste caso pode ser usado apenas duas medidas.*/
+padding-left: 256px;
+padding-right: 256px;
+padding-bottom: 64px;
+padding-top: 64px;
+}
+/* Tabela */
+
+
+a{
+    color: #f2e7dc;
+}
+table{
+    width: 100%;
+}
+td {
+    background-color: #a9d9d0;
+}
+tr{
+    background-color: #038c7f;
+}
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+img {
+    width: 300px;
+}
+.bookTitle {
+    background-color: #a9d9d0;
+    color: #027373;
+    text-align: center;
+}
+#sectionHP,
+#sectionCP,
+#sectionBI {
+    background-color: #a9d9d0;
+}
